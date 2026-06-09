@@ -212,4 +212,3 @@ ASSET-AI/
 ## Author
 
 **Thota Ramakrishna Sree Shanmukh**  
-Artificial Intelligence and Data Science
